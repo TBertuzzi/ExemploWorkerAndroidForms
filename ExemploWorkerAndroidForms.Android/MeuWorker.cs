@@ -17,9 +17,9 @@ namespace ExemploWorkerAndroidForms.Droid
         {
             try
             {
-                Log.Info("Teste", $"Iniciando Serviço de BackGround - {DateTime.Now}");
+                Log.Info("Teste", $"{DateTime.Now} Iniciando Serviço de BackGround ");
 
-                Log.Info("Local", "Acessando para Testar");
+                Log.Info("Local", $"{DateTime.Now} Acessando para Testar");
 
                 return new Result.Retry();
             }
