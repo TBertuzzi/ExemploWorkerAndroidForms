@@ -10,13 +10,13 @@ Vamos ao Nuget Instalar o Plugin [Xamarin.Android.Arch.Work.Runtime](https://www
 
 Existem basicamente duas formas de se utilizar o Worker.
 
-A primeira é a famosa Execução unica , como demonstrado na figura abaixo (Retirada do Artigo do blog da Microsoft) :
+A primeira é a famosa Execução unica , como demonstrado na figura abaixo (Retirada do [Artigo do blog da Microsoft](https://devblogs.microsoft.com/xamarin/getting-started-workmanager/?fbclid=IwAR0ad7HK6KiudW6SMg9taPBdTR8-gIDMyMp5c4DMBS3JH8wHApjjH0evLFg)) :
 
 <img src="https://github.com/TBertuzzi/ExemploWorkerAndroidForms/blob/master/Resources/ExecucaoUnica.png?raw=true" alt="Smiley face" height="500" width="700">
 
 Como o nome diz após a execução o Worker é finalizado.
 
-A Segunda forma é a Execução periodica como demonstrado na figura abaixo (Retirada do Artigo do blog da Microsoft) :
+A Segunda forma é a Execução periodica como demonstrado na figura abaixo (Retirada do [Artigo do blog da Microsoft](https://devblogs.microsoft.com/xamarin/getting-started-workmanager/?fbclid=IwAR0ad7HK6KiudW6SMg9taPBdTR8-gIDMyMp5c4DMBS3JH8wHApjjH0evLFg)) :
 
 <img src="https://github.com/TBertuzzi/ExemploWorkerAndroidForms/blob/master/Resources/execucaoPeriodica.png?raw=true" alt="Smiley face" height="500" width="700">
 
